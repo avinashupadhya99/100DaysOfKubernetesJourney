@@ -53,4 +53,6 @@ In a traditional setup, the master tells the clients what to do and when to do s
 ## References
 
 - [Kubernetes Design Principles: Understand the Why](https://www.youtube.com/watch?v=ZuIQurh_kDk)
-- 
+
+> Note: Few of the wordings in this gist are directly from the talks listed in the references and not my
+own.
