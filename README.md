@@ -13,7 +13,7 @@
 - [ ] ☸ 1 > [My First Day](Journey/001/Readme.md)
 - [ ] ☸ 2 > [Getting started with Kubernetes](Journey/002/Readme.md)
 - [ ] ☸ 3 > [Kubernetes Design Principles](Journey/003/Readme.md)
-- [ ] ☸ 4 > [](Journey/004/Readme.md)
+- [ ] ☸ 4 > [Kubernetes API Internals](Journey/004/Readme.md)
 - [ ] ☸ 5 > [](Journey/005/Readme.md)
 - [ ] ☸ 6 > [](Journey/006/Readme.md)
 - [ ] ☸ 7 > [](Journey/007/Readme.md)
